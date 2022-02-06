@@ -11,6 +11,6 @@ We found that the city type ‘Urban’ had the most number of rides - by a sign
 ![image](https://github.com/aisligrace/PyBer_Analysis/blob/main/rides%20by%20city%20type%20df.png) 
 
 Second, we worked to create a line chart, plotting total fares by city type. Like our summary data frame, 'Urban' the highest. 
-![image(https://github.com/aisligrace/PyBer_Analysis/blob/main/Pyber_fare_summary.png)
+![image](https://github.com/aisligrace/PyBer_Analysis/blob/main/Pyber_fare_summary.png)
 
 ## Summary
