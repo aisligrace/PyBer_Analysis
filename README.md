@@ -14,3 +14,13 @@ Second, we worked to create a line chart, plotting total fares by city type. Lik
 ![image](https://github.com/aisligrace/PyBer_Analysis/blob/main/Pyber_fare_summary.png)
 
 ## Summary
+
+My three recommendations to the PyBer CEO would be to:
+
+1) Start a marketing program to recruit more drivers in rural areas. There is a shortage of drivers and is leading to very high prices for riders, which might make them take alternative transportation. 
+
+2) My second recommendation would be to limit new driver employees in urban cities. If these cities become too saturated with drivers, the price for riders will be too low to be profitable for drivers and PyBer. 
+
+3)I believe that the sweet spot between driver availablilty and rider profitability is the 'suburban' city type. I would do a deeper dive into what PyBer is doing to recruit, train, and advertise in those areas and 1)keep doing it and 2)try and apply it to 'rural' and 'urban' city types.
+
+##
