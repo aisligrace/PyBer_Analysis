@@ -2,7 +2,7 @@
 Module 5 
 ## Analysis Overview
 
-We completed a project to analyze all of PyBer’s rideshare date from January to May 2019, using Python, Jupyter Notebook, Pandas, and matplotlib. Once we completed that, summary Dataframes categorized by city type. And we created a graph to show fare by city type. 
+We completed a project to analyze all of PyBer’s rideshare date from January to May 2019, using Python, Jupyter Notebook, Pandas, and matplotlib. Once we completed that, we created a summary Dataframe to categorized by city type and average fares. And we created a line chart to show fare by city type. 
 
 ## Results
 
